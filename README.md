@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Hestirix
+- Loving programming and doing my best to get better at it
+- Currently an ALX software engineering student
 - 👀 I’m interested in web and Mobile development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to expand my understanding of object-oriented programming in C#
