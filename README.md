@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Hestirix
+- 👋 Hi, I’m @Hestirix. actual name is Dennis
 - Loving programming and doing my best to get better at it
-- Currently an ALX software engineering student
+- Currently enrolled in the ALX software engineering program
+- Soon to become a master of Git ^_^
 - 👀 I’m interested in web and Mobile development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to expand my understanding of object-oriented programming in C#
