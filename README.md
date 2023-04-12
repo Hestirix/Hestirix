@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hestirix. actual name is Dennis Garfield Mhango
 - Loving programming and doing my best to get better at it
-- I am a full stack engineer, which means i can handle both the back-end & Front-end
+- I am a full stack software developer, which means i can handle both the back-end & Front-end
 - Currently enrolled in the ALX software engineering program
 - Soon to become a master of Git ^_^
 - 👀 I’m interested in web and Mobile development alongside software architecture
